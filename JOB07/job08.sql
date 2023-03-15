@@ -1,0 +1,1 @@
+SELECT BIRTH from etudiants where BIRTH > '2004-12-12';

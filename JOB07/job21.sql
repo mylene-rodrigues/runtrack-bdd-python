@@ -1,0 +1,1 @@
+SELECT COUNT(BIRTH) FROM etudiants where '1997-12-31' <= BIRTH and BIRTH >='2004-12-31';

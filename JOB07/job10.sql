@@ -1,0 +1,1 @@
+SELECT BIRTH from etudiants ORDER BY BIRTH DESC;

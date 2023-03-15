@@ -1,0 +1,1 @@
+SELECT MIN(BIRTH) FROM etudiants;

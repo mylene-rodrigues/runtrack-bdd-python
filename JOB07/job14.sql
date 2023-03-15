@@ -1,0 +1,1 @@
+SELECT BIRTH from etudiants where '1997-12-31' <= BIRTH and BIRTH >= '2004-12-31' order by BIRTH ASC;
