@@ -1,0 +1,1 @@
+SELECT CONCAT('La superficie de la Plateforme est de ', SUM(superficie),'m2') FROM etage;
